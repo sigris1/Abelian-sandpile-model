@@ -53,4 +53,4 @@
 
 Программа должна закончить свою работу в случае если модель достигла стабильного состояния, либо номера заданной изначально итерации.
 
-![image](https://github.com/sigris1/Abelian-sandpile-model/assets/144999355/4e62ee25-465c-4a09-b7f8-0d94b9d0208f)
+![image](https://github.com/sigris1/Abelian-sandpile-model/assets/144999355/4e62ee25-465c-4a09-b7f8-0d94b9d0208f) Например, песчанная куча из 100000 песчинок выглядит так
