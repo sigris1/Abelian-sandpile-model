@@ -1,9 +1,9 @@
 
 #include "Sandpile.h"
-#include <fstream>
-#include <string>
-#include <cstring>
-#include <cstdint>
+#include "fstream"
+#include "string"
+#include "cstring"
+#include "cstdint"
 #include "Image.h"
 #include "Parser.h"
 #include "Timer.h"
