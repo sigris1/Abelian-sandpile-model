@@ -1,8 +1,8 @@
 
 #include "Image.h"
 #include "Sandpile.h"
-#include <ostream>
-#include <cstring>
+#include "ostream"
+#include "cstring"
 
 const int16_t kFileHeaderSize = 14;
 const int16_t kInformationHeaderSize = 40;
